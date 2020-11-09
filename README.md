@@ -1,2 +1,2 @@
-# https-github.com-jackferrari1-simulinkcoder-example
+# simulinkcoder-example
 Simulink Coder CI example files
